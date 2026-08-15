@@ -50,11 +50,10 @@ To resolve bed-heat fusion on micro-joints and ensure smooth gear meshing, compo
 ## 📂 Repository Structure
 
 ```text
-├── STL/                    # 3D Printable STL files for all 14 components
-│   ├── frames/
-│   ├── gears/
-│   └── mechanical_joints/
+├── STL Files/                    # 3D Printable STL files for all 14 components
+│   ├── Part A/
+│   ├── Part B/
+│   └── Part C/
 ├── Cura_Profiles/          # Exported .3mf / Cura slicing profiles
-├── media/                  # Assembly photos and motion GIFs
-│   └── flying_turtle.jpg
+├── ME557- Additive Manufacturing Project 1.pdf                 # PDF file with the necessary information
 └── README.md               # Project documentation
