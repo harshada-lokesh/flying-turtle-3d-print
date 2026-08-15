@@ -59,4 +59,6 @@ To resolve bed-heat fusion on micro-joints and ensure smooth gear meshing, compo
 └── README.md                    # Project documentation
 ```
 
-<img src="media/flying_turtle.jpg" alt="Flying Turtle Assembly" width="50%">
+<p align="center">
+  <img src="media/flying_turtle.jpg" alt="Flying Turtle Assembly" width="500"/>
+</p>
